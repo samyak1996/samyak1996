@@ -1,0 +1,19 @@
+.btn {
+  margin-top: 15px;
+  margin-left: 15px;
+  background-color: #00aa00;
+  color: white;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn:hover {
+  background-color: #00aa00;
+}
+
+.btn:active {
+  box-shadow: insert 0 0 4px rgba(0, 0, 0, 0.5);
+}
